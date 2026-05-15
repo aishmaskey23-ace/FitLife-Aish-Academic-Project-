@@ -1,0 +1,2 @@
+# FitLife-Aish-Academic-Project-
+This is my academic project which I have done in my 5th semester in module "Andriod Mobile Development" and it is based on fitness. This app tracks the progress of an individual's fitness and also can add the materials, track the expenses of the fitness journey which is used during the time.
